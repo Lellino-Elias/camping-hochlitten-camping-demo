@@ -134,10 +134,10 @@ const campingHochlitten: CampsiteConfig = {
       "Wandern mit Kindern, Bogenschießen im Wald und Gipfeltouren vor der Haustür — ein paar Eindrücke aus der Region rund um Hochlitten.",
     tag: "Rund ums Jahr",
     images: [
-      { src: `${IMG}/activity-bac10fe6d8.webp`, alt: "Familie beim Bergwandern an einem Bergsee im Bregenzerwald" },
       { src: `${IMG}/kids-3f76f546b8.webp`, alt: "Kinder entdecken die Natur am Eulen-Weg in Riefensberg" },
       { src: `${IMG}/gallery-f4c4be8887.webp`, alt: "Bogenschießen mit der Familie im 3D-Parcours bei Hochlitten" },
       { src: `${IMG}/kids-b7c6e823fb.webp`, alt: "Kinder beim Bogenschießen im Wald nahe dem Campingplatz" },
+      { src: `${IMG}/gallery-a4bbdd1c0e.webp`, alt: "Die Seilbahn Bezau im Bregenzerwald im Morgenlicht" },
     ],
   },
 
