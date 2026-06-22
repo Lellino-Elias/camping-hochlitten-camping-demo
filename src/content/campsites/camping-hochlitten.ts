@@ -28,7 +28,7 @@ const campingHochlitten: CampsiteConfig = {
     {
       title: "Sommer am Berg",
       text: "Frische Bergluft, weite Wiesen und Abende, an denen die Sonne hinter den Hügeln versinkt.",
-      image: { src: `${IMG}/gallery-29fd679296.webp`, alt: "Sonnenuntergang über dem Campingplatz Hochlitten im Sommer" },
+      image: { src: `${IMG}/activity-bac10fe6d8.webp`, alt: "Familie beim Wandern im Bregenzerwald — frische Bergluft und weite Almwiesen rund um Hochlitten" },
     },
     {
       title: "Winterzauber",
@@ -136,7 +136,7 @@ const campingHochlitten: CampsiteConfig = {
     images: [
       { src: `${IMG}/kids-3f76f546b8.webp`, alt: "Kinder entdecken die Natur am Eulen-Weg in Riefensberg" },
       { src: `${IMG}/gallery-f4c4be8887.webp`, alt: "Bogenschießen mit der Familie im 3D-Parcours bei Hochlitten" },
-      { src: `${IMG}/kids-b7c6e823fb.webp`, alt: "Kinder beim Bogenschießen im Wald nahe dem Campingplatz" },
+      { src: `${IMG}/gallery-38f73260b8.webp`, alt: "Das Erlebnisbad Aquaria in Mellau — mit der Bregenzerwald Card gratis nutzbar" },
       { src: `${IMG}/gallery-a4bbdd1c0e.webp`, alt: "Die Seilbahn Bezau im Bregenzerwald im Morgenlicht" },
     ],
   },
